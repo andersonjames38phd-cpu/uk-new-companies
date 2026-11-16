@@ -1,0 +1,92 @@
+[
+  {
+    "company": "JUNIOR AND HARRIS HOSPITALITY LTD",
+    "companyNumber": "17583548",
+    "status": "Active",
+    "companyType": "Private limited company",
+    "incorporatedOn": "2026-11-16",
+    "registeredOffice": "248 Durham Road, Gateshead, England NE8 4JR",
+    "postcode": "NE8 4JR",
+    "sicCodes": [
+      "56101"
+    ],
+    "industries": [
+      "Licenced restaurants"
+    ],
+    "companyUrl": "https://find-and-update.company-information.service.gov.uk/company/17583548",
+    "officers": [
+      {
+        "name": "S. A. A. F.",
+        "role": "Director",
+        "appointedOn": "2026-11-16",
+        "nationality": "Bangladeshi",
+        "countryOfResidence": "United Kingdom",
+        "occupation": null
+      }
+    ]
+  },
+  {
+    "company": "SPICE HAMILTON 20 LTD",
+    "companyNumber": "SC909127",
+    "status": "Active",
+    "companyType": "Private limited company",
+    "incorporatedOn": "2026-11-16",
+    "registeredOffice": "20 Bothwell Road, Hamilton, Scotland ML3 0AY",
+    "postcode": "ML3 0AY",
+    "sicCodes": [
+      "56101"
+    ],
+    "industries": [
+      "Licenced restaurants"
+    ],
+    "companyUrl": "https://find-and-update.company-information.service.gov.uk/company/SC909127",
+    "officers": [
+      {
+        "name": "J. M.",
+        "role": "Director",
+        "appointedOn": "2026-11-16",
+        "nationality": "British",
+        "countryOfResidence": "Scotland",
+        "occupation": null
+      }
+    ]
+  },
+  {
+    "company": "THE RO (EXMOOR) LTD",
+    "companyNumber": "17584143",
+    "status": "Active",
+    "companyType": "Private limited company",
+    "incorporatedOn": "2026-11-16",
+    "registeredOffice": "The Bull Pen, Seckington, Tamworth, England B79 0LA",
+    "postcode": "B79 0LA",
+    "sicCodes": [
+      "55100",
+      "56101",
+      "56302"
+    ],
+    "industries": [
+      "Hotels and similar accommodation",
+      "Licenced restaurants",
+      "Public houses and bars"
+    ],
+    "companyUrl": "https://find-and-update.company-information.service.gov.uk/company/17584143",
+    "officers": [
+      {
+        "name": "K. M. C.",
+        "role": "Director",
+        "appointedOn": "2026-11-16",
+        "nationality": "British",
+        "countryOfResidence": "England",
+        "occupation": null
+      },
+      {
+        "name": "M. J. M.",
+        "role": "Director",
+        "appointedOn": "2026-11-16",
+        "nationality": "British",
+        "countryOfResidence": "England",
+        "occupation": null
+      }
+    ]
+  }
+]
